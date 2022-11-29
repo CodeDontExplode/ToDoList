@@ -1,0 +1,33 @@
+body{
+    background-color: darkgrey;
+    font-family:serif
+}
+
+h1, form{
+    background-color: lightgrey;
+}
+
+h1, h2{
+    padding-left: .5rem;
+}
+
+.task-list{
+    background-color: lightgrey;
+}
+
+#form-area{
+    background-color: lightgrey;
+    padding: .5rem 1rem;
+}
+
+#input-line{
+    padding: .5rem 0rem;
+}
+
+#list-container{
+    background-color: lightgrey;
+}
+
+#list-container > ol{
+    margin-top: 0px;
+}
